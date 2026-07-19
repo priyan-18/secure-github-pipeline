@@ -1,0 +1,13 @@
+{
+  "name": "secure-github-pipeline-demo",
+  "version": "1.0.0",
+  "description": "Intentionally vulnerable demo application for Secure GitHub Pipeline",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "sqlite3": "^5.1.7"
+  }
+}
